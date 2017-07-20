@@ -1,6 +1,8 @@
 apply plugin: 'groovy'
 apply from: "${rootDir}/pom-evaluator.gradle"
 
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.dai-xun'
 dependencies {
     compile gradleApi()
     compile localGroovy()
