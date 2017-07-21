@@ -17,5 +17,3 @@ dependencies {
   compile 'com.google.auto:auto-common:0.6'
 
 }
-
-apply from: "${rootDir}/pom-evaluator.gradle"

@@ -34,4 +34,3 @@ dependencies {
     compile 'org.aspectj:aspectjrt:1.8.9'
     testCompile 'junit:junit:4.12'
 }
-apply from: "${rootDir}/pom-evaluator.gradle"

@@ -29,5 +29,3 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:support-fragment:25.0.0'
 }
-
-apply from: "${rootDir}/pom-evaluator.gradle"
